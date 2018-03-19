@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="profile_name">Dave</string>
+    <string name="profile_img_caption">Dave at Savage Race</string>
+    <string name="btn_view">View Profile</string>
+    <string name="bio">Dave enjoys being active. That may be snowboarding in the winter or hiking in the summer. On occasion, as in my profile picture, I have been known to run races. That particular race was the Savage Race, an obstacle race.</string>
+    <string name="btn_back">Back</string>
+</resources>
